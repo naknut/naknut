@@ -2,7 +2,7 @@
 
 Hello there! 👋
 
-I'm a Software developer based in San Francisco and are working for a software consultant agency called @jayway.
+I'm a Software developer based in San Francisco and are working for a software consultant agency called [@jayway](https://github.com/jayway).
 My expertese (as you can probably tell from my repos) is iOS development. Mostly in Swift!
 
 Here are some quick things about me:
