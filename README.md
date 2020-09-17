@@ -1,16 +1,19 @@
-### Hi there 👋
+# Marcus "Naknut" Isaksson
 
-<!--
-**naknut/naknut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋
 
-Here are some ideas to get you started:
+I'm a Software developer based in San Francisco and are working for a software consultant agency called @jayway.
+My expertese (as you can probably tell from my repos) is iOS development. Mostly in Swift!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some quick things about me:
+
+- 🔭 I’m currently working on [Combinefall](https://github.com/naknut/Combinefall). Help wanted from Magic addicted Swift developers.
+- 🌱 I’m currently learning C++ and Rust.
+- 👯 I’m looking to collaborate on anything!
+- 💬 Ask me about: Born in Sweden. Now living in the USA.
+- 📫 How to reach me:
+  - E-mail 📩: me@naknut.email
+  - twitter: [@Naknut](https://twitter.com/Naknut)
+  - LinkedIn 💼: <https://www.linkedin.com/in/marcus-isaksson-3b125736/>
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: See my talk about Bluetooth and iOS [here](https://www.youtube.com/watch?v=XEUxl5zlNVw).
