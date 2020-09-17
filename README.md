@@ -2,15 +2,15 @@
 
 Hello there! 👋
 
-I'm a Software developer based in San Francisco and are working for a software consultant agency called [@jayway](https://github.com/jayway).
-My expertese (as you can probably tell from my repos) is iOS development. Mostly in Swift!
+I'm a Software developer based in San Francisco and I work for a software consultant agency called [@jayway](https://github.com/jayway).
+My expertise (as you can probably tell from my repos) is iOS development. Mostly in Swift!
 
 Here are some quick things about me:
 
-- 🔭 I’m currently working on [Combinefall](https://github.com/naknut/Combinefall). Help wanted from Magic addicted Swift developers.
+- 🔭 I’m currently working on [Combinefall](https://github.com/naknut/Combinefall). *Help wanted from Magic addicted Swift developers*
 - 🌱 I’m currently learning C++ and Rust.
 - 👯 I’m looking to collaborate on anything!
-- 💬 Ask me about: Born in Sweden. Now living in the USA.
+- 💬 Ask me about: Being a Swedish expat in the USA.
 - 📫 How to reach me:
   - E-mail 📩: me@naknut.email
   - twitter: [@Naknut](https://twitter.com/Naknut)
