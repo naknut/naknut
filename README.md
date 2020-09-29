@@ -13,7 +13,7 @@ Here are some quick things about me:
 - 💬 Ask me about: Being a Swedish expat in the USA.
 - 📫 How to reach me:
   - E-mail 📩: me@naknut.email
-  - twitter: [@Naknut](https://twitter.com/Naknut)
+  - twitter 🐦: [@Naknut](https://twitter.com/Naknut)
   - LinkedIn 💼: <https://www.linkedin.com/in/marcus-isaksson-3b125736/>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: See my talk about Bluetooth and iOS [here](https://www.youtube.com/watch?v=XEUxl5zlNVw).
