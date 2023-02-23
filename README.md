@@ -7,7 +7,6 @@ My expertise (as you can probably tell from my repos) is iOS development. Mostly
 
 Here are some quick things about me:
 
-- 🔭 I’m currently working on [Combinefall](https://github.com/naknut/Combinefall). *Help wanted from Magic addicted Swift developers!*
 - 🌱 I’m currently learning C++ and Rust.
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about: Being a Swedish expat in the USA.
