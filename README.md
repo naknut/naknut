@@ -13,5 +13,4 @@ Here are some quick things about me:
   - E-mail 📩: me@naknut.email
   - Mastodon 🐘: [@naknut@mastodon.social](https://mastodon.social/@naknut)
   - LinkedIn 💼: <https://www.linkedin.com/in/marcus-isaksson-3b125736/>
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: See my talk about Bluetooth and iOS [here](https://www.youtube.com/watch?v=XEUxl5zlNVw).
