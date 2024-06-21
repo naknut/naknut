@@ -6,9 +6,6 @@ I'm a Software developer based in Stockholm and I work for a software consultant
 My expertise (as you can probably tell from my repos) is iOS development. Mostly in Swift!
 
 Here are some quick things about me:
-
-- 🌱 I’m currently learning C++ and Rust.
-- 👯 I’m looking to collaborate on anything!
 - 📫 How to reach me:
   - E-mail 📩: me@naknut.email
   - Mastodon 🐘: [@naknut@mastodon.social](https://mastodon.social/@naknut)
